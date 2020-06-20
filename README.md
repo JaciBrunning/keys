@@ -5,9 +5,13 @@ Only my private keys match these public keys.
 You can find copies of my main keys at [keybase.io/jaci](https://keybase.io/jaci).
 
 ### PGP (Main Key)
-This is my main key. Use it to verify a signed message from me, or to send an encrypted message to me.  
+This is my main key. Use it to verify a signed message from me, or to send an encrypted message to me. This is also the key I sign my commits with for the most part. 
 
 ```
+Fingerprint: 7D9DA57F1491D45F0C29A0AFBC74A63E424DE6CE
+Short ID: BC74A63E424DE6CE
+Full key:
+
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF7tvK4BEADke3qkN+bMumtGGXngXpngxNIyc/a9XwW4eRklu/UPQPC28gkO
